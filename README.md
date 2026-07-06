@@ -9,7 +9,7 @@
 
 This repository contains my solutions, hands-on exercises, assignments, and practical implementations completed as part of the **Cognizant Digital Nurture 5.0 – Java Full Stack Engineer (JFSE)** program.
 
-The repository covers both Upskilling and Deepskilling modules, including hands-on work in Java, SQL, Spring Framework, React, Git, Docker, DevOps, Cloud, and Generative AI.
+The repository contains mandatory hands-on exercises covering the Deepskilling modules, including Java, SQL, Spring Framework, Spring Boot, and Hibernate.
 
 ---
 
