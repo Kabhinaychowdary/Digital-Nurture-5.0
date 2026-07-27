@@ -31,8 +31,11 @@ Digital-Nurture-5.0
 ├── Week_3
 │   └── Spring REST using Spring Boot 3
 │
-└── Week_4
-    └── Microservices with Spring Boot 3 and Spring Cloud
+├── Week_4
+│   └── Microservices with Spring Boot 3 and Spring Cloud
+│
+└── Week_5_and_6
+    └── ReactJS Hands-On Labs (HOL 1–13)
 ```
 
 ---
@@ -55,6 +58,9 @@ Digital-Nurture-5.0
 ### ✅ Week 4 – Deepskilling
 - Microservices with Spring Boot 3 and Spring Cloud
 
+### ✅ Week 5 & 6 – Deepskilling
+- ReactJS Hands-On Labs (Components, Props, State, Events, Hooks, Routing)
+
 ---
 
 ## 🛠 Technologies and Tools
@@ -63,6 +69,7 @@ Digital-Nurture-5.0
 |---|---|
 | Programming Language | Java, SQL |
 | Backend Framework | Spring Boot, Spring Core, Spring Data JPA, Spring Cloud |
+| Frontend Framework | ReactJS, Vite |
 | Database | MySQL, PL/SQL |
 | Testing | JUnit, Mockito |
 | Logging | SLF4J |
@@ -85,6 +92,9 @@ Digital-Nurture-5.0
 - Spring Data JPA and Hibernate ORM
 - RESTful API Development and JWT Authentication
 - Microservices Architecture with Spring Cloud
+- ReactJS Component Development
+- React State Management and Hooks
+- React Routing and Event Handling
 - Unit Testing with JUnit and Mockito
 - Logging with SLF4J
 - Maven Project Configuration
