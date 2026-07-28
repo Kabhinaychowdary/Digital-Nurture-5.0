@@ -34,8 +34,11 @@ Digital-Nurture-5.0
 ├── Week_4
 │   └── Microservices with Spring Boot 3 and Spring Cloud
 │
-└── Week_5_and_6
-    └── ReactJS Hands-On Labs (HOL 1–13)
+├── Week_5_and_6
+│   └── ReactJS Hands-On Labs (HOL 1–13)
+│
+└── Week_7
+    └── GIT Hands-On Labs (HOL 1–5)
 ```
 
 ---
@@ -60,6 +63,9 @@ Digital-Nurture-5.0
 
 ### ✅ Week 5 & 6 – Deepskilling
 - ReactJS Hands-On Labs (Components, Props, State, Events, Hooks, Routing)
+
+### ✅ Week 7 – Deepskilling
+- GIT Hands-On Labs (Version Control, Branching, Merging, Collaboration)
 
 ---
 
